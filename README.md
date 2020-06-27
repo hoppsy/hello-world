@@ -1,2 +1,2 @@
 # hello-world
-Jusr a new repository
+Just a new repository
